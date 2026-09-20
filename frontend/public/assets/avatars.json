@@ -1,0 +1,338 @@
+[
+  {
+    "id": "L3-001",
+    "name": "沈砚",
+    "role": "总监",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/165f3ef40a134de3a8ed1d4cee5c9d8d.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=WNzVpZb8TfH4%2BOvoLDT0xm4CxO4%3D",
+    "avatar_local": "/assets/avatars/L3-001.jpg"
+  },
+  {
+    "id": "L3-002",
+    "name": "林清越",
+    "role": "首席分析师",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/944dd9fd361841078333990ec4dae291.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=jL6Kh06U6KYC7LJAKMbUlRpYd44%3D",
+    "avatar_local": "/assets/avatars/L3-002.jpg"
+  },
+  {
+    "id": "L3-003",
+    "name": "周翊",
+    "role": "质量总检",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/4ce7b703c90d421a80c738d70517d885.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=WpuJzyZTSgIKA4xt16JLebSTFxs%3D",
+    "avatar_local": "/assets/avatars/L3-003.jpg"
+  },
+  {
+    "id": "L2-001",
+    "name": "苏明哲",
+    "role": "战略咨询",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/e22709792da24777a40747e30c073873.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=tgkrljKpZZKmLuKq1uC1v7VewWI%3D",
+    "avatar_local": "/assets/avatars/L2-001.jpg"
+  },
+  {
+    "id": "L2-002",
+    "name": "何知微",
+    "role": "定价策略",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/7cb1bd2b434a4baeaaeefd7e700901f2.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781596800&x-orig-sign=Qc%2FN72jBv1D8rkSoieIFTn6LqvM%3D",
+    "avatar_local": "/assets/avatars/L2-002.jpg"
+  },
+  {
+    "id": "L2-003",
+    "name": "顾晚晴",
+    "role": "用户研究",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/b11c1fe349b2439190d5ceac1bb87035.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=ycMInNrymeCQRH8Roq0h7pjBpNU%3D",
+    "avatar_local": "/assets/avatars/L2-003.jpg"
+  },
+  {
+    "id": "L2-004",
+    "name": "江竞洲",
+    "role": "竞争情报",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/4355384d44074d7fa6f810fc57f4aa34.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=LN0nCZnsJ39VkoOnJzJ5Ti5Kx1c%3D",
+    "avatar_local": "/assets/avatars/L2-004.jpg"
+  },
+  {
+    "id": "L2-005",
+    "name": "温叙白",
+    "role": "财务分析",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/bd8b6f18d3cb46b4a7af21132959e594.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=p4NU1%2FtP3UDpFAd3zuWtbYU6XxU%3D",
+    "avatar_local": "/assets/avatars/L2-005.jpg"
+  },
+  {
+    "id": "L2-006",
+    "name": "陆则铭",
+    "role": "技术架构",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/b154d17a366f404abae8cdcc122f936f.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=q%2Bzo7DrWZyLKjDr%2BQrPsmtvncFE%3D",
+    "avatar_local": "/assets/avatars/L2-006.jpg"
+  },
+  {
+    "id": "L2-007",
+    "name": "白露",
+    "role": "市场营销",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/efd24bae12e64ebdb26abf23ae9a5534.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=RDv8i4C1Crd71Bra22oPEPBVyck%3D",
+    "avatar_local": "/assets/avatars/L2-007.jpg"
+  },
+  {
+    "id": "L2-008",
+    "name": "裴叙",
+    "role": "数据分析",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/986128f9c1ee4d37940fe4b4ed41466b.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=3fDeO61sApMEj3ICd6B5HK9U2ys%3D",
+    "avatar_local": "/assets/avatars/L2-008.jpg"
+  },
+  {
+    "id": "L2-009",
+    "name": "沈律",
+    "role": "合规风控",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/8ce7765b4775430386560431666012d9.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=WBRpLO9z%2F4mmspBcn5ZK2QjJUz0%3D",
+    "avatar_local": "/assets/avatars/L2-009.jpg"
+  },
+  {
+    "id": "L1-001",
+    "name": "金维",
+    "role": "金融",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/2e020e51a9c9470cad659c9d5eb846ed.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=pK8l7dPdraZQRnuDElXkrSIlyvA%3D",
+    "avatar_local": "/assets/avatars/L1-001.jpg"
+  },
+  {
+    "id": "L1-002",
+    "name": "程哲",
+    "role": "SaaS",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/d96baad7e7f241abaf4182c84b838b94.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=zqIbd%2BiG%2FsphyrLSvMVyrwKe%2Fww%3D",
+    "avatar_local": "/assets/avatars/L1-002.jpg"
+  },
+  {
+    "id": "L1-003",
+    "name": "钟璇",
+    "role": "机器人",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/3cb7a6a258594464aa883a5cca214ace.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=GtkTxuK8O8KXoiks8LMf6XowHU0%3D",
+    "avatar_local": "/assets/avatars/L1-003.jpg"
+  },
+  {
+    "id": "L1-004",
+    "name": "辛宇",
+    "role": "半导体",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/0e1df87713364da1a6859dc2301727a0.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=GTtfKVfB%2B03ob0s%2FuudaMY%2BLntI%3D",
+    "avatar_local": "/assets/avatars/L1-004.jpg"
+  },
+  {
+    "id": "L1-005",
+    "name": "任馨",
+    "role": "医疗健康",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/5afcd74875384176abcb4f0a30f8cae2.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=YIm2L%2FG8ZabLVHj%2BtF2iZi1Y1Rs%3D",
+    "avatar_local": "/assets/avatars/L1-005.jpg"
+  },
+  {
+    "id": "L1-006",
+    "name": "田驰",
+    "role": "新能源/EV",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/6b067c1a43e04f8e82b1d1c3edb2cd2f.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=sWuTXcQ3ifDts%2FeDjkRW8oa4xnA%3D",
+    "avatar_local": "/assets/avatars/L1-006.jpg"
+  },
+  {
+    "id": "L1-007",
+    "name": "于飞",
+    "role": "云计算",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/1c7bd549f2f940bc932c6faf684a1e74.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=oi40t1kFpuxJ9y7E0AfobOqrnZE%3D",
+    "avatar_local": "/assets/avatars/L1-007.jpg"
+  },
+  {
+    "id": "L1-008",
+    "name": "凌曦",
+    "role": "AI/大模型",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/654006b62617496dbefa9589b324d3d1.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=FjaM7gxM2Spvu30HhQUWrTxzoEQ%3D",
+    "avatar_local": "/assets/avatars/L1-008.jpg"
+  },
+  {
+    "id": "L1-009",
+    "name": "顾染",
+    "role": "电商",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/c1014506ac34455499bfb608a024fa84.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=N4dQR86pUt4H84QdUAlZE6J5%2Fw8%3D",
+    "avatar_local": "/assets/avatars/L1-009.jpg"
+  },
+  {
+    "id": "L1-010",
+    "name": "尤戏",
+    "role": "游戏",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/eb47ae1e61164f1cb8e2b5a93238a891.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=BlBGz5Jhq%2FtIthevN%2BKM5k2NqgQ%3D",
+    "avatar_local": "/assets/avatars/L1-010.jpg"
+  },
+  {
+    "id": "L1-011",
+    "name": "连观",
+    "role": "区块链",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/43818fdb95e14531b9469aa94cbdd329.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=CLcdQ0VcQOniT4YrlvpALeXFkRk%3D",
+    "avatar_local": "/assets/avatars/L1-011.jpg"
+  },
+  {
+    "id": "L1-012",
+    "name": "段影",
+    "role": "内容/短视频",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/dccb74efa0914c8d84a3121ef008ea86.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=SP%2F1z712ifYoBVwgIMN4LW%2Bs02M%3D",
+    "avatar_local": "/assets/avatars/L1-012.jpg"
+  },
+  {
+    "id": "L1-013",
+    "name": "邢者",
+    "role": "出行/物流",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/13754f0658be471d8246f4797a57cb68.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=%2BxLyuuxhYbJNCZD5sr9jH2mXUGo%3D",
+    "avatar_local": "/assets/avatars/L1-013.jpg"
+  },
+  {
+    "id": "L1-014",
+    "name": "石全",
+    "role": "餐饮",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/6fa8a387c7c64c3596a09a94fdd28af4.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=ZFyX4GgLO3nNVDHoKongGDXLY%2Bs%3D",
+    "avatar_local": "/assets/avatars/L1-014.jpg"
+  },
+  {
+    "id": "L1-015",
+    "name": "梅妍",
+    "role": "美妆",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/241e6226cfdb4163ba1ff75a0d4485d0.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=wx4uDPCluFuc3S4WlHk8Qfq86LI%3D",
+    "avatar_local": "/assets/avatars/L1-015.jpg"
+  },
+  {
+    "id": "L1-016",
+    "name": "方道",
+    "role": "房地产",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/92171ac71b7d48e997fbef6e09f7b525.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=xOybTlLhunDiBSi1k8jxM8b7Igw%3D",
+    "avatar_local": "/assets/avatars/L1-016.jpg"
+  },
+  {
+    "id": "L1-017",
+    "name": "焦书",
+    "role": "教育",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/946b47de8b2a4124ba714c4cd78c3bd9.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=F%2FZFLcQ1z88qhvB7Upnbx8Fa%2BbE%3D",
+    "avatar_local": "/assets/avatars/L1-017.jpg"
+  },
+  {
+    "id": "L1-018",
+    "name": "傅尚",
+    "role": "服饰时尚",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/0afbae89a40c46e8bb218f470aa8a5cb.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=N%2B8ZSpNcWxrfwStvYlS%2FoHNcfxM%3D",
+    "avatar_local": "/assets/avatars/L1-018.jpg"
+  },
+  {
+    "id": "L1-019",
+    "name": "农稻",
+    "role": "农业",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/4e89be5fb8e7477bb2df5e4294e41e2a.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=YmtqnwW9%2BXDTj5GGzfBdMiE%2F7Vo%3D",
+    "avatar_local": "/assets/avatars/L1-019.jpg"
+  },
+  {
+    "id": "L1-020",
+    "name": "温旅",
+    "role": "旅游/酒店",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/3ecaa7488bca4967abd2949a1f4a2b53.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=n54SbWpGjP76JcBubM6Nt4MPEng%3D",
+    "avatar_local": "/assets/avatars/L1-020.jpg"
+  },
+  {
+    "id": "L1-021",
+    "name": "包安",
+    "role": "保险",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/e3e64fde45a6417ca55a23bf84591554.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=vdheeyyo7RqPEi697t7yJLINLJA%3D",
+    "avatar_local": "/assets/avatars/L1-021.jpg"
+  },
+  {
+    "id": "L1-022",
+    "name": "靖土",
+    "role": "环保/材料",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/dca939536b504775aefb3bd506cbe850.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781600400&x-orig-sign=MUwU1VuJx950bRWS8QE4cAQgq4I%3D",
+    "avatar_local": "/assets/avatars/L1-022.jpg"
+  },
+  {
+    "id": "L1-023",
+    "name": "杭阔",
+    "role": "航空航天",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/a26043d74bd44a4391da836bade2d55b.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=ND88%2BecFFIvDYF0VbHjzK5S8Cgk%3D",
+    "avatar_local": "/assets/avatars/L1-023.jpg"
+  },
+  {
+    "id": "L1-024",
+    "name": "应创",
+    "role": "消费电子",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/e82b240d6fd242118c533ab3a72715f1.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=jNlvH5IDblG2W3N3u%2F6T8iUqcfg%3D",
+    "avatar_local": "/assets/avatars/L1-024.jpg"
+  },
+  {
+    "id": "L1-025",
+    "name": "苏罗",
+    "role": "数据抓取",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/a94a5bf6db2c4765b862cc6115151102.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=BdNBOxNpuVNiq7jg1uMuT7jiHfI%3D",
+    "avatar_local": "/assets/avatars/L1-025.jpg"
+  },
+  {
+    "id": "L1-026",
+    "name": "甄伪",
+    "role": "事实核查",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/cfc3caf58f8f43e9ac85e96357c12fa1.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=4Biq26e3%2FRpCHUiAtovmJeHzEYo%3D",
+    "avatar_local": "/assets/avatars/L1-026.jpg"
+  },
+  {
+    "id": "L1-027",
+    "name": "易通",
+    "role": "多语言翻译",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/c9c8a46e18764e91b0cf5d570e4bfa19.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=3R3HTkcA5WQBttcd7zT8uwOqrY0%3D",
+    "avatar_local": "/assets/avatars/L1-027.jpg"
+  },
+  {
+    "id": "L1-028",
+    "name": "温卷",
+    "role": "问卷调研",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/dd1444555e6e465faea6ef7bbf65c471.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=2eShqg%2B1BCwrmDGXOix7AvojBO0%3D",
+    "avatar_local": "/assets/avatars/L1-028.jpg"
+  },
+  {
+    "id": "L1-029",
+    "name": "方谈",
+    "role": "用户访谈",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/cde85e5a0f844c1abcd884391e6ad4ed.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=CoRIkuDCW6HivLd2ES98IVa%2Br%2Bc%3D",
+    "avatar_local": "/assets/avatars/L1-029.jpg"
+  },
+  {
+    "id": "L1-030",
+    "name": "余晴",
+    "role": "社媒舆情",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/4767f955f31c4cf1b2f1d746ab0762de.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=Vlh26Sz6a2TgL8Of0lMq43gvPkk%3D",
+    "avatar_local": "/assets/avatars/L1-030.jpg"
+  },
+  {
+    "id": "L1-031",
+    "name": "平嘉",
+    "role": "评论挖掘",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/3c5c259c0f7a4e4fbcb9bdee3a6ac9ad.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=%2BAik46U2Ns%2Fcu6lArnvHIWFuJH0%3D",
+    "avatar_local": "/assets/avatars/L1-031.jpg"
+  },
+  {
+    "id": "L1-032",
+    "name": "詹利",
+    "role": "专利/IP",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/de5a7232964244568731f47ff6af2565.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=nTOELZspmFTC6Iy7%2Ba9%2BVgpWSdg%3D",
+    "avatar_local": "/assets/avatars/L1-032.jpg"
+  },
+  {
+    "id": "L1-033",
+    "name": "赵聘",
+    "role": "招聘情报",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/23cf6fa957ee48dbb5021f6ce54f92d7.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=k68yFjPp4vCM%2BqwkzKObqZ7EKwc%3D",
+    "avatar_local": "/assets/avatars/L1-033.jpg"
+  },
+  {
+    "id": "L1-034",
+    "name": "蔡宝",
+    "role": "财报采集",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/b5b233d2aa4043e89e91b505a8205a43.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=Qpi32oHCa6Wy9ybZ9YIE%2BJMk0Vw%3D",
+    "avatar_local": "/assets/avatars/L1-034.jpg"
+  },
+  {
+    "id": "L1-035",
+    "name": "涂硕",
+    "role": "数据可视化",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/2f39d3669ec740568b7006e2a1d60610.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=zV6Ar9v0zzMRgJg%2FSaJGGUpUZcA%3D",
+    "avatar_local": "/assets/avatars/L1-035.jpg"
+  },
+  {
+    "id": "L1-036",
+    "name": "党安",
+    "role": "知识库/归档",
+    "avatar_url": "https://p-mira-img-sign-sgnontt.byteintl.net/tos-mya-i-xobrcjvdq7/4cb1cf470ad8498484f168a95ae2eced.jpeg~tplv-xobrcjvdq7-image-jpeg.jpeg?lk3s=3523e930&x-orig-authkey=miraorigin&x-orig-expires=1781604000&x-orig-sign=qSAjldzh7%2FfVnhzVS3Rs6ksIv5E%3D",
+    "avatar_local": "/assets/avatars/L1-036.jpg"
+  }
+]

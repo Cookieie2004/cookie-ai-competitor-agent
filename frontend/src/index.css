@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* 主色 —— 莫兰迪鼠尾草绿 */
+  --cookie-primary: #7c9885;
+  --cookie-primary-soft: #a8c0a8;
+  --cookie-primary-tint: #eaf1ea;
+  --cookie-primary-deep: #5e7a66;
+
+  /* 春日暖阳 */
+  --cookie-sun: #f4e2b8;
+  --cookie-sun-soft: #fbf6e9;
+
+  /* 墨色文字（禁纯黑白） */
+  --cookie-ink: #3a413c;
+  --cookie-ink-2: #6b746c;
+  --cookie-ink-3: #9aa39c;
+  --cookie-line: #e3e8e3;
+  --cookie-bg: #fafbf9;
+  --cookie-card: #ffffff;
+
+  /* 语义色 */
+  --cookie-ok: #8ab58a;
+  --cookie-warn: #e0b775;
+  --cookie-risk: #ce9a92;
+  --cookie-info: #8fa8c0;
+
+  /* 圆角 */
+  --r-card: 16px;
+  --r-btn: 12px;
+  --r-chip: 999px;
+
+  /* 阴影 */
+  --shadow-card: 0 4px 24px rgba(124, 152, 133, 0.08);
+  --shadow-float: 0 8px 40px rgba(124, 152, 133, 0.14);
+
+  /* 统一缓动 */
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* 8pt 间距系统 */
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px;
+  --s5: 24px; --s6: 32px; --s7: 48px; --s8: 64px;
+}
+
+@layer base {
+  * { box-sizing: border-box; }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background: var(--cookie-bg);
+    color: var(--cookie-ink);
+    font-family: 'Inter', 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--cookie-ink);
+  }
+
+  ::selection {
+    background: var(--cookie-primary-tint);
+  }
+
+  /* 全站统一缓动 */
+  a, button {
+    transition: all 0.25s var(--ease);
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--cookie-line);
+    border-radius: 999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--cookie-primary-soft);
+  }
+}
+
+@layer components {
+  /* 玻璃拟态 */
+  .v-glass {
+    background: rgba(255, 255, 255, 0.72);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+
+  /* 通用卡片 */
+  .v-card {
+    background: var(--cookie-card);
+    border-radius: var(--r-card);
+    box-shadow: var(--shadow-card);
+    border: 1px solid var(--cookie-line);
+  }
+
+  /* 主按钮（保留兼容旧调用） */
+  .v-btn-primary {
+    background: var(--cookie-primary);
+    color: #fff;
+    border-radius: var(--r-btn);
+    transition: all 0.2s var(--ease);
+  }
+  .v-btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-float);
+    background: var(--cookie-primary-deep);
+  }
+
+  /* 骨架屏 */
+  .v-skeleton {
+    background: linear-gradient(
+      90deg,
+      rgba(227, 232, 227, 0.5) 25%,
+      rgba(227, 232, 227, 0.9) 37%,
+      rgba(227, 232, 227, 0.5) 63%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.6s linear infinite;
+    border-radius: var(--r-btn);
+  }
+}

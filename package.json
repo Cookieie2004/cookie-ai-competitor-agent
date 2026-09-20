@@ -1,0 +1,8 @@
+{
+  "name": "cookie-ai-competitor-agent",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "npm --prefix frontend install && npm --prefix frontend run vercel-build"
+  }
+}

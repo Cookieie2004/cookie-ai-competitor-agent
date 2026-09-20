@@ -1,0 +1,18 @@
+node_modules
+build
+dist
+.git
+.codex
+.figma
+.venv
+*.log
+
+# 交付文档/素材包（部署不需要，体积大）
+Cookie交付包
+Cookie_完整交付包
+*.jpeg
+agent网站图片.jpeg
+
+# 本地 SQLite（Vercel 用 /tmp，绝不上传本地库）
+backend/app/data/cookie.db
+backend/.env
